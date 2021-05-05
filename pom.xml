@@ -36,7 +36,7 @@
 						<username>Maheshnm</username>
 						<password>Mahesh16</password>
 						<environment>Sandbox</environment>
-						<applicationName>Demo_CICD_1</applicationName>
+						<applicationName>Demo_CICD16</applicationName>
 						<!--<businessGroup>${cloudhub.bg}</businessGroup>-->
 						<workerType>MICRO</workerType>
 					</cloudHubDeployment>
